@@ -1,0 +1,61 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(239, 239, 239);
+}
+div {
+    display: inline-block;
+}
+.Login input {
+    background-color: rgb(0, 110, 255);
+    color: white;
+    border: 0px solid;
+    padding: 12px 104px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+.Forgot input {
+    background-color: transparent;
+    border: 0px;
+    color: rgb(0,110,255);
+    cursor: pointer;
+    font-weight: bolder;
+}
+.Create input{
+    background-color:rgb(84, 194, 21);
+    border: 0px solid;
+    padding: 15px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bolder;
+    color: white;
+}
+.email input{
+    padding: 6px;
+    border: 1px solid;
+    border-radius: 5px;
+    width: 225;
+}
+.Password input{
+    padding: 6px;
+    border: 1px solid;
+    border-radius: 5px;
+    width: 225;
+}
+.Facebook{
+    color:rgb(0, 110, 255);
+    font-size: 65px;
+    font-weight: bolder;
+}
+.right{
+    margin-left: 550px;
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px 45px;
+    box-shadow:(0 0 0 0 25) 0px 5px 15px;
+    margin-top: 220px;
+}
+
+.left{
+    padding-left: 90px;
+}
